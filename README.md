@@ -1,23 +1,33 @@
-👋 Hi, I’m César Santos 
+# Hi, I'm César Santos 👋
 
+### Backend Engineer | DevOps Enthusiast | OCI Certified
 
+I specialize in building robust backend systems and automating infrastructure. Currently focused on **DevSecOps**, **Cloud Architecture (OCI)**, and **AI Engineering** (Audio Transcription/LLMs).
 
-<div>
-<h2> Linguagens de progamação</h2> 
-  
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,c,python&theme=light)](https://skillicons.dev)
-</div>
+---
 
-<div>
-  <h2>Ferramentas</h2>
+### 🏆 Certifications
+* **Oracle Cloud Infrastructure Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+* **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
-  
-  
-   [![My Skills](https://skillicons.dev/icons?i=aws,clion,androidstudio,docker,git,github,ableton,idea,postgres,postman,powershell,pycharm,vscode&perline=5)](https://skillicons.dev)
-</div>
+---
 
+### 🛠️ Engineering Stack
 
-<!---
-csarsantos96/csarsantos96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Backend & AI**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**DevOps & Cloud**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🔭 Current Focus
+* Optimizing **WhisperX** models for GPU-accelerated transcription.
+* Building a **GitOps** pipeline for my personal cloud infrastructure on OCI.
