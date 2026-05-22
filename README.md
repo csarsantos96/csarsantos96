@@ -1,3 +1,10 @@
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%86%92+DevOps+Platform;Building+PICKStack+%E2%80%94+12+months+to+CKA;US+Remote+%E2%9C%93+Germany+2026+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
+
+</div>
+
 # Hi, I'm César Santos 👋
 
 ### Backend Engineer evolving into DevOps & Platform Engineering
@@ -81,11 +88,17 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 
 ---
 
+
+
 <div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csarsantos96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=csarsantos96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="César's GitHub Stats" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csarsantos96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=csarsantos96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
