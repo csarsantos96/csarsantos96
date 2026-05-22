@@ -83,9 +83,9 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=csarsantos96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="César's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=csarsantos96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="César's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csarsantos96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csarsantos96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=csarsantos96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
