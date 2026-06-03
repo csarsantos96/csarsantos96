@@ -10,7 +10,7 @@
 ### Backend Engineer evolving into DevOps & Platform Engineering
 ### Java/Spring · Python · Kubernetes · Cloud Native | CKA Candidate
 
-> 🌎 Available for **US-remote roles** (Backend / DevOps / Platform) · 🇩🇪 Relocating to **Germany in 2026**
+> 🌎 Available for **US-remote roles** (Backend / DevOps / Platform) 
 
 Backend engineer with solid experience in **Java/Spring** and **Python**, currently expanding into **Cloud Native infrastructure**, **GitOps**, and **Site Reliability Engineering**. Comfortable across the full stack — from application code to Kubernetes clusters.
 
