@@ -1,9 +1,5 @@
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%E2%86%92+DevOps+Platform;Building+PICKStack+%E2%80%94+12+months+to+CKA;US+Remote+%E2%9C%93+Germany+2026+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
-
-</div>
 
 # Hi, I'm César Santos 👋
 
@@ -16,7 +12,7 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 
 🎯 **Currently pursuing**: CKA (Certified Kubernetes Administrator)
 📚 **Learning path**: KCNA → CKAD → CKA → CKS + AWS + RHCSA
-🇩🇪 🇺🇸 **Goal**: US remote opportunities + Relocating to Germany by 2026
+🇺🇸 **Goal**: US remote opportunities 
 
 ---
 
