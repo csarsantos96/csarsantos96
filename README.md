@@ -25,6 +25,7 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 
 ---
 
+---
 ### 🎖️ Verified Credentials
 
 <h3>Oracle Cloud Certifications</h3>
@@ -42,6 +43,7 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/185771323" width="150" alt="Uncomplicating Docker - LINUXtips">
   </a>
 </p>
+
 ---
 
 ### 🛠️ Engineering Stack
