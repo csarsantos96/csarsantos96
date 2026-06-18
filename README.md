@@ -18,9 +18,30 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 
 ### 🏆 Certifications
 
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- **Postgraduate in Cybersecurity & Ethical Hacking** — FIAP (in progress)
+- **[Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E9D60ECCAD24BAE65F3794C035E8984F13AFB21CCCCEBAB73CECC89C5F20DA34)** — Oracle
+- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=529BE94A3499D3896BEA37D98D2597F07F1C8547AA1057AA673044851D3CEA9F)** — Oracle
+- **[Uncomplicating Docker](https://www.credential.net/4033f97c-52d2-4977-8658-69e3fc411db3)** — LINUXtips
+- **Postgraduate in Cybersecurity & Ethical Hacking** — FIAP *(in progress)*
+
+---
+
+### 🎖️ Verified Credentials
+
+<h3>Oracle Cloud Certifications</h3>
+
+<p>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E9D60ECCAD24BAE65F3794C035E8984F13AFB21CCCCEBAB73CECC89C5F20DA34" target="_blank">
+    <img src="./assets/badges/OCI25FNDCFA.jpeg" width="120" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate">
+  </a>
+
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=529BE94A3499D3896BEA37D98D2597F07F1C8547AA1057AA673044851D3CEA9F" target="_blank">
+    <img src="./assets/badges/OCI25AICFA.jpeg" width="120" alt="Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate">
+  </a>
+
+  <a href="https://www.credential.net/4033f97c-52d2-4977-8658-69e3fc411db3" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/185771323" width="120" alt="Uncomplicating Docker - LINUXtips">
+  </a>
+</p>
 
 ---
 
