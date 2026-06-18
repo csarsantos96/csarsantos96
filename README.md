@@ -23,9 +23,7 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 - **[Uncomplicating Docker](https://www.credential.net/4033f97c-52d2-4977-8658-69e3fc411db3)** — LINUXtips
 - **Postgraduate in Cybersecurity & Ethical Hacking** — FIAP *(in progress)*
 
----
 
----
 ### 🎖️ Verified Credentials
 
 <h3>Oracle Cloud Certifications</h3>
