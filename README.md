@@ -103,19 +103,3 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 - 📍 Open to **US remote (USD)** and **EU relocation — Germany 2026**
 
 ---
-
-
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csarsantos96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=csarsantos96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="César's GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=csarsantos96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
