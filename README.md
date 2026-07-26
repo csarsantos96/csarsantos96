@@ -1,18 +1,15 @@
-
-
-
 # Hi, I'm César Santos 👋
 
-### Backend Engineer evolving into DevOps & Platform Engineering
-### Java/Spring · Python · Kubernetes · Cloud Native | CKA Candidate
+### Backend Engineer · Cloud Native enthusiast
+### Java/Spring · Python · PostgreSQL · Kubernetes | CKA Candidate
 
-> 🌎 Available for **US-remote roles** (Backend / DevOps / Platform) 
+> 🌎 Available for **US-remote roles** (Backend / Platform / DevOps)
 
-Backend engineer with solid experience in **Java/Spring** and **Python**, currently expanding into **Cloud Native infrastructure**, **GitOps**, and **Site Reliability Engineering**. Comfortable across the full stack — from application code to Kubernetes clusters.
+Backend engineer with solid experience building production systems in **Java/Spring** and **Python**, backed by strong database and API design skills. Comfortable across the full stack — from application code to Kubernetes clusters — with a growing focus on **Cloud Native infrastructure**, **GitOps**, and **Site Reliability Engineering**.
 
 🎯 **Currently pursuing**: CKA (Certified Kubernetes Administrator)
 📚 **Learning path**: KCNA → CKAD → CKA → CKS + AWS + RHCSA
-🇺🇸 **Goal**: US remote opportunities 
+🇺🇸 **Goal**: US remote opportunities
 
 ---
 
@@ -44,6 +41,9 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Cloud Native & Orchestration**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,16 +67,12 @@ Backend engineer with solid experience in **Java/Spring** and **Python**, curren
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
 ### 🔭 Current Focus
 
-- 🚀 Building **PICKStack** — a 12-month Cloud Native platform with Kubernetes, GitOps, observability and SLO management
-- ☸️ Deep diving into **Kubernetes networking, security and operations** toward CKA certification
-- 🤖 Exploring **AI/ML infrastructure** — GPU-accelerated transcription pipelines with WhisperX
-- 🇩🇪 Studying **German (B1 target)** alongside English fluency improvement
-
----
+- ⚙️ Designing and shipping **backend services and APIs** with Java/Spring and Python
+- 🚀 Building **PICKStack** — a Cloud Native platform with Kubernetes, GitOps, observability and SLO management
+- ☸️ Deep diving into **Kubernetes** operations toward CKA certification
+- 🌍 Improving English fluency and studying German (B1 target)
 
 ### 🗣️ Languages
 
